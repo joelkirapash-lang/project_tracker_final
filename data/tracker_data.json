@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Joel",
+      "email": "joelkirapash@gmail.com",
+      "role": "member",
+      "created_at": "2026-06-11T23:56:54",
+      "projects": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Pipenv
+Pipfile.lock
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Data (optional — include if you want sample data in the repo)
+# data/tracker_data.json
+data/*.bak.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
