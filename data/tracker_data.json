@@ -6,7 +6,57 @@
       "email": "joelkirapash@gmail.com",
       "role": "member",
       "created_at": "2026-06-11T23:56:54",
+      "projects": [
+        {
+          "id": 1,
+          "title": "Website Redesign",
+          "description": "",
+          "due_date": "",
+          "created_at": "2026-06-12T12:59:48",
+          "tasks": [
+            {
+              "id": 1,
+              "title": "Design homepage",
+              "status": "done",
+              "assigned_to": "Joel",
+              "created_at": "2026-06-12T13:09:24"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "hacker",
+          "description": "Learn ethical hacking basics",
+          "due_date": "2026-08-01",
+          "created_at": "2026-06-12T14:11:19",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "bett",
+      "email": "bett@example.com",
+      "role": "member",
+      "created_at": "2026-06-12T13:02:47",
       "projects": []
+    },
+    {
+      "id": 3,
+      "name": "martin",
+      "email": "martin@example.com",
+      "role": "member",
+      "created_at": "2026-06-12T13:05:52",
+      "projects": [
+        {
+          "id": 2,
+          "title": "developer",
+          "description": "",
+          "due_date": "",
+          "created_at": "2026-06-12T13:06:10",
+          "tasks": []
+        }
+      ]
     }
   ]
 }
